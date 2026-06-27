@@ -3,7 +3,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_community.vectorstores import Chroma
 
-LLM_MODEL = "llama3.1"
+LLM_MODEL = "llama3.2"
 
 PROMPT_TEMPLATE = """あなたは研究論文の内容を解説するアシスタントです。
 以下の論文の抜粋を参考にして、質問に日本語で答えてください。

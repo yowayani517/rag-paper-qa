@@ -1,0 +1,184 @@
+<svg viewBox="0 0 780 420" xmlns="http://www.w3.org/2000/svg" width="780" height="420">
+  <defs>
+    
+    <clipPath id="w"><rect width="780" height="420" rx="10"></rect></clipPath>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"></stop>
+      <stop offset="100%" stop-color="#bc8cff"></stop>
+    </linearGradient>
+    <linearGradient id="bng" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb"></stop>
+      <stop offset="100%" stop-color="#388bfd"></stop>
+    </linearGradient>
+    <linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb"></stop>
+      <stop offset="100%" stop-color="#58a6ff"></stop>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#w)">
+    
+    <rect width="780" height="420" fill="#0d1117"></rect>
+
+    
+    <rect width="780" height="34" fill="#161b22"></rect>
+    <rect y="33" width="780" height="1" fill="#21262d"></rect>
+    <circle cx="16" cy="17" r="5.5" fill="#ff5f57"></circle>
+    <circle cx="32" cy="17" r="5.5" fill="#febc2e"></circle>
+    <circle cx="48" cy="17" r="5.5" fill="#28c840"></circle>
+    <rect x="218" y="10" width="344" height="14" rx="4" fill="#0d1117"></rect>
+    <text x="390" y="21" text-anchor="middle" fill="#6e7681" font-size="10" font-family="system-ui,sans-serif">localhost:8501</text>
+
+    
+    <rect x="0" y="34" width="192" height="386" fill="#161b22"></rect>
+    <rect x="191" y="34" width="1" height="386" fill="#21262d"></rect>
+
+    
+    <text x="13" y="62" font-size="15" fill="#58a6ff" font-family="system-ui,sans-serif">📄</text>
+    <text x="33" y="59" font-size="12" font-weight="600" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">研究論文 Q&amp;A</text>
+    <text x="33" y="71" font-size="9" fill="#6e7681" font-family="system-ui,sans-serif">完全ローカル · 無料</text>
+
+    
+    <text x="12" y="90" font-size="9.5" font-weight="500" fill="#8b949e" font-family="system-ui,sans-serif">論文をアップロード</text>
+
+    
+    <rect x="10" y="183" width="172" height="26" rx="7" fill="url(#bng)"></rect>
+    <text x="96" y="200" text-anchor="middle" font-size="10.5" font-weight="500" fill="white" font-family="system-ui,sans-serif">📥  論文を読み込む</text>
+
+    
+    <rect x="10" y="215" width="172" height="22" rx="6" fill="#21262d"></rect>
+    <text x="96" y="230" text-anchor="middle" font-size="9.5" fill="#8b949e" font-family="system-ui,sans-serif">🗑️  DBをリセット</text>
+
+    
+    <rect x="10" y="244" width="172" height="1" fill="#21262d"></rect>
+
+    
+    <text x="12" y="260" font-size="8.5" font-weight="600" fill="#6e7681" font-family="system-ui,sans-serif">使い方</text>
+    <text x="12" y="274" font-size="8.5" fill="#6e7681" font-family="system-ui,sans-serif">1.  PDFをアップロード</text>
+    <text x="12" y="288" font-size="8.5" fill="#6e7681" font-family="system-ui,sans-serif">2.  「論文を読み込む」をクリック</text>
+    <text x="12" y="302" font-size="8.5" fill="#6e7681" font-family="system-ui,sans-serif">3.  右の入力欄で質問</text>
+
+    
+    <text x="209" y="63" font-size="18" font-weight="700" fill="url(#tg)" font-family="system-ui,-apple-system,sans-serif">📄  研究論文 Q&amp;A</text>
+    <text x="209" y="79" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">PDFをアップロードして、論文の内容を日本語で質問できます — 完全ローカル・APIキー不要</text>
+    <rect x="209" y="89" width="559" height="1" fill="#21262d"></rect>
+
+    
+    
+    <g class="s1">
+      <rect x="700" y="38" width="68" height="17" rx="8.5" fill="rgba(88,166,255,0.1)" stroke="rgba(88,166,255,0.3)" stroke-width="1"></rect>
+      <text x="734" y="50" text-anchor="middle" font-size="8.5" fill="#58a6ff" font-weight="500" font-family="system-ui,sans-serif">① アップロード</text>
+    </g>
+    
+    <g class="s2">
+      <rect x="708" y="38" width="60" height="17" rx="8.5" fill="rgba(210,153,34,0.12)" stroke="rgba(210,153,34,0.35)" stroke-width="1"></rect>
+      <text x="738" y="50" text-anchor="middle" font-size="8.5" fill="#d2991f" font-weight="500" font-family="system-ui,sans-serif">② 処理中</text>
+    </g>
+    
+    <g class="s3">
+      <rect x="708" y="38" width="60" height="17" rx="8.5" fill="rgba(63,185,80,0.1)" stroke="rgba(63,185,80,0.3)" stroke-width="1"></rect>
+      <text x="738" y="50" text-anchor="middle" font-size="8.5" fill="#3fb950" font-weight="500" font-family="system-ui,sans-serif">③ チャット</text>
+    </g>
+
+
+    
+    
+    
+    <g class="s1">
+      
+      <rect x="10" y="97" width="172" height="80" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5" stroke-dasharray="4 3"></rect>
+      <text x="96" y="131" text-anchor="middle" font-size="17" font-family="system-ui,sans-serif" fill="#484f58">📂</text>
+      <text x="96" y="148" text-anchor="middle" font-size="8.5" fill="#6e7681" font-family="system-ui,sans-serif">PDFをドラッグ＆ドロップ</text>
+      <text x="96" y="161" text-anchor="middle" font-size="8" fill="#484f58" font-family="system-ui,sans-serif">またはクリックして選択</text>
+      
+      <rect x="10" y="246" width="114" height="17" rx="8.5" fill="rgba(139,148,158,0.07)" stroke="#30363d" stroke-width="1"></rect>
+      <circle cx="22" cy="254.5" r="3" fill="#484f58"></circle>
+      <text x="30" y="259" font-size="8.5" fill="#6e7681" font-family="system-ui,sans-serif">DB 未ロード</text>
+      
+      <text x="484" y="228" text-anchor="middle" font-size="46" font-family="system-ui,sans-serif" opacity="0.18" fill="#58a6ff">📚</text>
+      <text x="484" y="265" text-anchor="middle" font-size="13" fill="#6e7681" font-family="system-ui,-apple-system,sans-serif">左のサイドバーからPDFをアップロードしてください</text>
+      <text x="484" y="284" text-anchor="middle" font-size="10" fill="#484f58" font-family="system-ui,sans-serif">Ollama (Llama 3.2) · ChromaDB · LangChain</text>
+    </g>
+
+
+    
+    
+    
+    <g class="s2">
+      
+      <rect x="10" y="97" width="172" height="80" rx="8" fill="rgba(88,166,255,0.05)" stroke="#58a6ff" stroke-width="1.5" stroke-dasharray="4 3"></rect>
+      <text x="96" y="127" text-anchor="middle" font-size="14" font-family="system-ui,sans-serif" fill="#58a6ff">📄</text>
+      <text x="96" y="143" text-anchor="middle" font-size="8" font-weight="500" fill="#e6edf3" font-family="system-ui,sans-serif">attention_2017.pdf</text>
+      <text x="96" y="156" text-anchor="middle" font-size="7.5" fill="#8b949e" font-family="system-ui,sans-serif">2.4 MB</text>
+      <text x="96" y="170" text-anchor="middle" font-size="7.5" fill="#3fb950" font-family="system-ui,sans-serif">✓ 選択済み</text>
+      
+      <rect x="10" y="246" width="114" height="17" rx="8.5" fill="rgba(139,148,158,0.07)" stroke="#30363d" stroke-width="1"></rect>
+      <circle cx="22" cy="254.5" r="3" fill="#484f58"></circle>
+      <text x="30" y="259" font-size="8.5" fill="#6e7681" font-family="system-ui,sans-serif">DB 未ロード</text>
+      
+      <rect x="209" y="98" width="559" height="308" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"></rect>
+      
+      <circle cx="484" cy="196" r="26" fill="none" stroke="#21262d" stroke-width="3.5"></circle>
+      <path d="M484 170 A26 26 0 0 1 510 196" fill="none" stroke="#58a6ff" stroke-width="3.5" stroke-linecap="round">
+        
+      </path>
+      <text x="484" y="242" text-anchor="middle" font-size="13" fill="#8b949e" font-family="system-ui,-apple-system,sans-serif">PDFを解析してベクトルDBに保存中...</text>
+      <text x="484" y="260" text-anchor="middle" font-size="10" fill="#6e7681" font-family="system-ui,sans-serif">nomic-embed-text · ChromaDB</text>
+      
+      <rect x="364" y="277" width="240" height="5" rx="2.5" fill="#21262d"></rect>
+      <rect x="364" y="277" width="0" height="5" rx="2.5" fill="url(#pg)">
+        
+      </rect>
+      
+      <text x="364" y="292" font-size="8" fill="#484f58" font-family="system-ui,sans-serif">テキスト抽出</text>
+      <text x="430" y="292" font-size="8" fill="#484f58" font-family="system-ui,sans-serif">チャンク分割</text>
+      <text x="506" y="292" font-size="8" fill="#484f58" font-family="system-ui,sans-serif">ベクトル化</text>
+    </g>
+
+
+    
+    
+    
+    <g class="s3">
+      
+      <rect x="10" y="97" width="172" height="80" rx="8" fill="rgba(63,185,80,0.05)" stroke="rgba(63,185,80,0.35)" stroke-width="1.5" stroke-dasharray="4 3"></rect>
+      <text x="96" y="127" text-anchor="middle" font-size="14" font-family="system-ui,sans-serif" fill="#3fb950">📄</text>
+      <text x="96" y="143" text-anchor="middle" font-size="8" font-weight="500" fill="#e6edf3" font-family="system-ui,sans-serif">attention_2017.pdf</text>
+      <text x="96" y="158" text-anchor="middle" font-size="7.5" fill="#3fb950" font-family="system-ui,sans-serif">✓ 読み込み完了&amp;#xFF0842チャンク）</text>
+      
+      <rect x="10" y="246" width="128" height="17" rx="8.5" fill="rgba(63,185,80,0.1)" stroke="rgba(63,185,80,0.3)" stroke-width="1"></rect>
+      <circle cx="22" cy="254.5" r="3" fill="#3fb950"></circle>
+      <text x="30" y="259" font-size="8.5" fill="#3fb950" font-weight="500" font-family="system-ui,sans-serif">DB 読み込み済み</text>
+      
+      <rect x="209" y="98" width="559" height="24" rx="6" fill="rgba(63,185,80,0.08)" stroke="rgba(63,185,80,0.2)" stroke-width="1"></rect>
+      <rect x="209" y="98" width="3" height="24" rx="1.5" fill="#3fb950"></rect>
+      <text x="220" y="114" font-size="10" fill="#3fb950" font-family="system-ui,sans-serif">✓  1件のPDFを読み込みました&amp;#xFF0842チャンク）</text>
+      
+      <rect x="209" y="130" width="559" height="58" rx="10" fill="#1c2128" stroke="#30363d" stroke-width="1"></rect>
+      <circle cx="228" cy="152" r="10" fill="#1f6feb"></circle>
+      <text x="228" y="156" text-anchor="middle" font-size="8" fill="white" font-weight="700" font-family="system-ui,sans-serif">You</text>
+      <text x="247" y="151" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">この研究の目的は何ですか？</text>
+      <text x="247" y="168" font-size="10" fill="#6e7681" font-family="system-ui,sans-serif">主な貮献点と提案手法を教えてください</text>
+      
+      <rect x="209" y="196" width="559" height="132" rx="10" fill="#161b22" stroke="#21262d" stroke-width="1"></rect>
+      <circle cx="228" cy="217" r="10" fill="#7c3aed"></circle>
+      <text x="228" y="221" text-anchor="middle" font-size="8" fill="white" font-weight="700" font-family="system-ui,sans-serif">AI</text>
+      <text x="247" y="218" font-size="11.5" font-weight="600" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">この研究の目的と主な貮献</text>
+      <text x="247" y="235" font-size="10.5" fill="#8b949e" font-family="system-ui,sans-serif">本研究の目的は、Attentionメカニズムのみに基づく新しい</text>
+      <text x="247" y="251" font-size="10.5" fill="#8b949e" font-family="system-ui,sans-serif">ネットワークアーキテクチャ「Transformer」を提案することです。</text>
+      <text x="247" y="267" font-size="10.5" fill="#8b949e" font-family="system-ui,sans-serif">RNN&amp;#x30FBCNNを一切使用せず、翻訳タスクでSOTAを達成しました。</text>
+      
+      <rect x="247" y="276" width="108" height="18" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"></rect>
+      <text x="301" y="289" text-anchor="middle" font-size="8.5" fill="#6e7681" font-family="system-ui,sans-serif">▼  参照箇所&amp;#xFF084件）</text>
+      
+      <rect x="209" y="338" width="559" height="38" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"></rect>
+      <text x="223" y="361" font-size="11" fill="#484f58" font-family="system-ui,sans-serif">論文について質問してください...</text>
+      <rect x="742" y="345" width="20" height="24" rx="5" fill="#1f6feb"></rect>
+      <text x="752" y="361" text-anchor="middle" font-size="13" fill="white" font-family="system-ui,sans-serif">↑</text>
+    </g>
+
+  </g>
+
+  
+  <rect width="780" height="420" rx="10" fill="none" stroke="#30363d" stroke-width="1"></rect>
+</svg>
