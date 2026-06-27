@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square"/>
 </p>
 
-<img src="assets/demo.svg" alt="動作イメージ（質問 → 回答 → 参照箇所）" width="820"/>
+<img src="assets/demo.png" alt="アプリ画面" width="860"/>
 
 </div>
 
