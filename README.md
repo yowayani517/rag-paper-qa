@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square"/>
 </p>
 
-<img src="assets/demo.gif" alt="実際の動作デモ（質問 → 回答 → 参照箇所）" width="820"/>
-
-<sub>実際にローカルのLlama 3.2が論文を読んで回答し、参照箇所（ページ番号付き）を表示している様子</sub>
+<img src="assets/demo.svg" alt="動作イメージ（質問 → 回答 → 参照箇所）" width="820"/>
 
 </div>
 
